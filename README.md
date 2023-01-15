@@ -3,12 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 This challenge is to check your design, UI and UX accuracy. The Main task is to Design the Form with [Layout Method of Next.js](https://nextjs.org/docs/basic-features/layouts), and [Tailwind CSS](https://tailwindcss.com/). Of course you can use Axios in Addition.
-First, run the development server:
 
 Following are the terms that you should strictly Follow:
 
 - There should be no UI bug in the App;
-- An API **submit-form.ts** has already been made. You'll have to submit the form to this API;
+- An API **submit-form.ts** has already been made. You have to submit the form to this API Endpoints;
 - Every Single Button, Input Field should be interactive, User Friendly;
 - You Have to use Only Next.js and it's features. Specifically, [Layout Method of Next.js](https://nextjs.org/docs/basic-features/layouts), [Next/Image](https://nextjs.org/docs/api-reference/next/image) &amp; [Next/Link](https://nextjs.org/docs/api-reference/next/link);
 - No extra package/library installation is allowed. You have to complete the task with existing packages.
