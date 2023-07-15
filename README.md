@@ -7,9 +7,9 @@ This challenge is to check your design, UI and UX accuracy. The Main task is to 
 Following are the terms that you should strictly Follow:
 
 - There should be no UI bug in the App;
-- An API **submit-form.ts** has already been made. You have to submit the form to this API Endpoints;
+- An API **submit-form/route.ts** has already been made. You have to submit the form to this API Endpoints;
 - Every Single Button, Input Field should be interactive, User Friendly;
-- You Have to use Only Next.js and it's features. Specifically, [Layout Method of Next.js](https://nextjs.org/docs/basic-features/layouts), [Next/Image](https://nextjs.org/docs/api-reference/next/image) &amp; [Next/Link](https://nextjs.org/docs/api-reference/next/link);
+- You Have to use Only Next.js and it's features. Specifically, [App Router](https://nextjs.org/docs/app), Layout or Template of App router, [Next/Image](https://nextjs.org/docs/api-reference/next/image) &amp; [Next/Link](https://nextjs.org/docs/api-reference/next/link);
 - No extra package/library installation is allowed. You have to complete the task with existing packages.
 - You can skip the Datepicker design.
 - use Mock data for dropdowns. Types of data you may need:
@@ -22,10 +22,6 @@ Following are the terms that you should strictly Follow:
   - Helicopters;
 
 Please Follow the [Figma File](https://www.figma.com/file/HnzhqrsB57qOpy21MhsRwr/Front-End-Test?node-id=0%3A1&t=PvuCvdC0eReiW0NX-1) and make sure your app completely follows the design principle.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Instructions
 
